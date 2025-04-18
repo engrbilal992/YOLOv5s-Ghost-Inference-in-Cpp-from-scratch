@@ -35,6 +35,7 @@ This implementation faithfully reconstructs the YOLOv5s-Ghost architecture — i
 - C++11-compliant compiler (e.g., `g++`).
 - `make` utility for easy compilation.
 - Manually prepared image data (due to no external image libraries).
+- ImageData/255.
 
 ---
 
