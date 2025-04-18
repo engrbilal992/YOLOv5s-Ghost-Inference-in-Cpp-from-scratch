@@ -5,6 +5,7 @@ authors:
   - family-names: Sajid
     given-names: Muhammad Bilal
     email: bilalsajid695@gmail.com
+    orcid: https://orcid.org/0009-0005-7496-8545
     affiliation: "Independent Researcher"
 date-released: 2025-04-18
 url: "https://github.com/engrbilal992/YOLOv5s-Ghost-Inference-in-Cpp-from-scratch"
