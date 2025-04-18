@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "YOLOv5s-Ghost Inference in C++ from Scratch"
+authors:
+  - family-names: Sajid
+    given-names: Muhammad Bilal
+    email: bilalsajid695@gmail.com
+    affiliation: "Independent Researcher"
+date-released: 2025-04-18
+url: "https://github.com/engrbilal992/YOLOv5s-Ghost-Inference-in-Cpp-from-scratch"
+version: "1.0.0"
+keywords:
+  - YOLOv5
+  - GhostNet
+  - Object Detection
+  - C++
+  - Deep Learning
+  - Inference
+  - Computer Vision
+  - Lightweight Model
+abstract: >
+  This repository provides a pure C++ implementation of YOLOv5s-Ghost, an efficient
+  and lightweight object detection model based on the YOLOv5 architecture and Ghost modules.
+  Designed without external dependencies, the implementation uses only standard C++11
+  and cmath for inference on 640x640 RGB images. It outputs bounding boxes, confidence
+  scores, and class predictions for 80 COCO categories. This project serves as an educational
+  and research-friendly example of writing deep learning inference from scratch in C++.
