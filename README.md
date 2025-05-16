@@ -146,7 +146,7 @@ make clean
 ## Acknowledgment
 
 If you use this work in academic research, commercial projects, or any derivative work,  
-**please give credit to the original author**:
+**please give credit to the author**:
 
 ```
 Muhammad Bilal Sajid  
